@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "name": "Sushi em casa",
+    "image": "/images/sushi.png",
+    "deliveryFee": 0.0,
+    "rating": 4.2,
+    "isOpen": true
+  },
+  {
+    "id": "2",
+    "name": "Subway - Avenida Center",
+    "image": "/images/subway.png",
+    "deliveryFee": 6.0,
+    "rating": 4.5,
+    "isOpen": true
+  },
+  {
+    "id": "3",
+    "name": "Burger King - Colombo",
+    "image": "/images/burguerking.png",
+    "deliveryFee": 6.0,
+    "rating": 4.7,
+    "isOpen": true
+  },
+  {
+    "id": "4",
+    "name": "McDonalds - Novo Centro",
+    "image": "/images/mcdonalds.png",
+    "deliveryFee": 0.0,
+    "rating": 4.7,
+    "isOpen": true
+  },
+  {
+    "id": "5",
+    "name": "Casa da Sopa",
+    "deliveryFee": 3.0,
+    "rating": 3.0,
+    "isOpen": false
+  },
+  {
+    "id": "6",
+    "name": "Subway - Centro",
+    "image": "/images/subway.png",
+    "deliveryFee": 6.0,
+    "rating": 4.7,
+    "isOpen": false
+  },
+  {
+    "id": "7",
+    "name": "Subway - Shopping",
+    "image": "/images/subway.png",
+    "deliveryFee": 7.0,
+    "rating": 4.0,
+    "isOpen": true
+  },
+  {
+    "id": "8",
+    "name": "Burger King - Avenida",
+    "deliveryFee": 5.0,
+    "rating": 3.7,
+    "isOpen": false
+  },
+  {
+    "id": "9",
+    "name": "Burger King - Metro",
+    "image": "/images/burguerking.png",
+    "deliveryFee": 3.0,
+    "rating": 4.0,
+    "isOpen": false
+  },
+  {
+    "id": "10",
+    "name": "McDonalds - Loja 1",
+    "image": "/images/mcdonalds.png",
+    "deliveryFee": 0.0,
+    "rating": 4.7,
+    "isOpen": false
+  },
+  {
+    "id": "11",
+    "name": "Casa do Pastel",
+    "image": "/images/casapastel.png",
+    "deliveryFee": 0.0,
+    "rating": 4.8,
+    "isOpen": true
+  },
+  {
+    "id": "12",
+    "name": "Sushi em casa- Loja 2",
+    "image": "/images/sushi.png",
+    "deliveryFee": 0.0,
+    "rating": 4.8,
+    "isOpen": true
+  }
+]

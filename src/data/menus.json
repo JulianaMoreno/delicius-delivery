@@ -1,0 +1,452 @@
+[
+  {
+    "storeId": "1",
+    "menu": [
+      {
+        "menuId": "1",
+        "name": "Niguiris",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "1",
+            "name": "Salmão",
+            "description": "Bolinho de arroz com salmão por cima",
+            "price": 22.9
+          },
+          {
+            "id": "2",
+            "name": "Atum",
+            "description": "Bolinho de arroz com atum por cima",
+            "price": 22.0,
+            "promotion": 19.9
+          }
+        ]
+      },
+      {
+        "menuId": "2",
+        "name": "Ceviches",
+        "hasPromotion": true,
+        "description": "Prato refrescante de peixe marinado no limão",
+        "items": [
+          {
+            "id": "3",
+            "name": "Salmão",
+            "description": "Salmão marinado com limão, cebola e pimenta",
+            "price": 22.9,
+            "promotion": 19.9,
+            "minimum": 19.9,
+            "image": "/images/ceviche.png"
+          },
+          {
+            "id": "4",
+            "name": "Tilápia",
+            "description": "Tilápia marinada com limão, cebola e pimenta",
+            "price": 22.0
+          }
+        ]
+      },
+      {
+        "menuId": "3",
+        "name": "Temakis",
+        "hasPromotion": true,
+        "description": "Sushi em formato de cone",
+        "items": [
+          {
+            "id": "5",
+            "name": "Califórnia",
+            "description": "Kani, pepino e manga ou maçã",
+            "price": 17.0,
+            "promotion": 13.99
+          },
+          {
+            "id": "6",
+            "name": "Filadélfia",
+            "description": "Salmão fresco, cream cheese e cebolinha",
+            "price": 13.99,
+            "image":"/images/temaki.png"
+          },
+          {
+            "id": "7",
+            "name": "Califórnia veg",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": 13.99
+          },
+          {
+            "id": "8",
+            "name": "Mix",
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "minimum": 13.99
+          },
+          {
+            "id": "9",
+            "name": "Salmão picante",
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "minimum": 13.99,
+            "image":"/images/temaki.png"
+          }
+        ]
+      },
+      {
+        "menuId": "4",
+        "name": "Bebidas",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "8",
+            "name": "Coca-Cola",
+            "description": "350ml lata",
+            "price": 5.0
+          },
+          {
+            "id": "9",
+            "name": "Guaraná",
+            "description": "350ml lata",
+            "price": 5.0
+          },
+          {
+            "id": "10",
+            "name": "Água",
+            "description": "500ml",
+            "price": 3.0
+          }
+        ]
+      },
+      {
+        "menuId": "5",
+        "name": "Sobremesas",
+        "hasPromotion": false,
+        "description": "Doces deliciosos",
+        "items": []
+      }
+    ]
+  },
+  {
+    "storeId": "2",
+    "menu": [
+      {
+        "menuId": "6",
+        "name": "Lanches",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "11",
+            "name": "Sub Frango",
+            "description": "Pão, frango, salada e molho",
+            "price": 18.9
+          },
+          {
+            "id": "12",
+            "name": "Sub Carne",
+            "description": "Pão, carne bovina, salada e molho",
+            "price": 19.9
+          }
+        ]
+      },
+      {
+        "menuId": "7",
+        "name": "Bebidas",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "13",
+            "name": "Refrigerante",
+            "description": "Lata 350ml",
+            "price": 5.0
+          },
+          {
+            "id": "14",
+            "name": "Suco natural",
+            "description": "Copo 500ml",
+            "price": 7.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "storeId": "3",
+    "menu": [
+      {
+        "menuId": "8",
+        "name": "Combos",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "15",
+            "name": "Combo Whopper",
+            "description": "Whopper + Batata + Refrigerante",
+            "price": 29.9,
+            "promotion": 25.9,
+            "image":"/images/combo.png"
+          },
+          {
+            "id": "16",
+            "name": "Combo Chicken",
+            "description": "Chicken Sandwich + Batata + Refrigerante",
+            "price": 27.9
+          }
+        ]
+      },
+      {
+        "menuId": "9",
+        "name": "Bebidas",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "17",
+            "name": "Coca-Cola",
+            "description": "Lata 350ml",
+            "price": 5.0
+          },
+          {
+            "id": "18",
+            "name": "Suco",
+            "description": "Copo 500ml",
+            "price": 6.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "storeId": "4",
+    "menu": [
+      {
+        "menuId": "10",
+        "name": "Combos",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "19",
+            "name": "Big Mac Combo",
+            "description": "Big Mac + Batata + Refrigerante",
+            "price": 29.9,
+            "promotion": 26.9,
+            "image":"/images/hamburguerMc.png"
+          },
+          {
+            "id": "20",
+            "name": "McChicken Combo",
+            "description": "McChicken + Batata + Refrigerante",
+            "price": 27.9
+          }
+        ]
+      },
+      {
+        "menuId": "11",
+        "name": "Bebidas",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "21",
+            "name": "Coca-Cola",
+            "description": "Lata 350ml",
+            "price": 5.0
+          },
+          {
+            "id": "22",
+            "name": "Suco",
+            "description": "Copo 500ml",
+            "price": 6.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "storeId": "5",
+    "menu": [
+      {
+        "menuId": "12",
+        "name": "Pratos",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "23",
+            "name": "Sopa de Legumes",
+            "description": "Sopa nutritiva com legumes variados",
+            "price": 15.0
+          },
+          {
+            "id": "24",
+            "name": "Sopa de Feijão",
+            "description": "Sopa de feijão com macarrão",
+            "price": 13.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "storeId": "7",
+    "menu": [
+      {
+        "menuId": "13",
+        "name": "Sanduiche Natural",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "25",
+            "name": "Sub Frango",
+            "minimum": 17.0
+          },
+          {
+            "id": "26",
+            "name": "Sub Atum",
+            "price": 19.9,
+            "promotion": 18.9
+          }
+        ]
+      },
+      {
+        "menuId": "14",
+        "name": "Bebidas",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "28",
+            "name": "Suco laranja",
+            "description": "Copo 500ml",
+            "price": 7.0,
+            "promotion": 6.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "storeId": "11",
+    "menu": [
+      {
+        "menuId": "15",
+        "name": "Pasteis",
+        "hasPromotion": false,
+        "items": [
+          {
+            "id": "30",
+            "name": "Pastel de Queijo",
+            "description": "Massa crocante recheada com queijo",
+            "price": 8.0,
+            "image": "/images/pastel.png"
+          },
+          {
+            "id": "32",
+            "name": "Pastel de Carne",
+            "description": "Massa crocante recheada com carne moída",
+            "price": 9.0,
+            "image": "/images/pastel.png"
+          },
+          {
+            "id": "33",
+            "name": "Pastel de Pizza",
+            "description": "Queijo, presunto, tomate e orégano",
+            "price": 9.5,
+            "image": "/images/pastel.png"
+          }
+        ]
+      },
+      {
+        "menuId": "17",
+        "name": "Bebidas",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "34",
+            "name": "Coca-Cola",
+            "description": "Lata 350ml",
+            "price": 5.0
+          },
+          {
+            "id": "36",
+            "name": "Caldo de Cana",
+            "description": "Copo 300ml",
+            "price": 6.0,
+            "promotion": 5.0
+          }
+        ]
+      },
+      {
+        "menuId": "27",
+        "name": "Doces",
+        "hasPromotion": true,
+        "items": [
+          {
+            "id": "45",
+            "name": "Romeu e Julieta",
+            "description": "queijo com goiabada",
+            "price": 5.0
+          },
+          {
+            "id": "46",
+            "name": "Doce de leite",
+            "price": 6.0,
+            "promotion": 5.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "storeId": "12",
+    "menu": [
+      {
+        "menuId": "20",
+        "name": "Niguiris",
+        "hasPromotion": false,
+        "description": "Niguiris variados",
+        "items": [
+          {
+            "id": "37",
+            "name": "Salmão",
+            "description": "Bolinho de arroz com salmão por cima",
+            "price": 22.9
+          }
+        ]
+      },
+      {
+        "menuId": "22",
+        "name": "Ceviches",
+        "hasPromotion": true,
+        "description": "Prato refrescante de peixe marinado no limão",
+        "items": [
+          {
+            "id": "38",
+            "name": "Salmão",
+            "description": "Salmão marinado com limão, cebola e pimenta",
+            "price": 22.9,
+            "promotion": 19.9
+          }
+        ]
+      },
+      {
+        "menuId": "23",
+        "name": "Temakis",
+        "hasPromotion": true,
+        "description": "Sushi em formato de cone",
+        "items": [
+          {
+            "id": "39",
+            "name": "Califórnia",
+            "description": "Kani, pepino e manga ou maçã",
+            "price": 17.0,
+            "promotion": 13.99
+          },
+          {
+            "id": "40",
+            "name": "Filadélfia",
+            "description": "Salmão fresco, cream cheese e cebolinha",
+            "price": 13.99,
+            "image":"/images/temaki.png"
+          },
+          {
+            "id": "41",
+            "name": "Salmão picante",
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": 13.99,
+            "image":"/images/temaki.png"
+          }
+        ]
+      }
+    ]
+  }
+]
