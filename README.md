@@ -33,7 +33,7 @@ Este projeto foi desenvolvido usando:
 **Melhorias**
 1. Adicionei alguns testes unitários, mas acho legal falar que uma melhoria seria adição de testes snapshots e testes de integração (como cypress)
 2. A última tela (ticket) só possui um pedido, fazer mais pedidos e exibir uma lista seria uma melhoria
-3. Na última tela os botôes de adicionar, remover ou editar também não possuem uma lógica, seria mais um ponto de melhoria
+3. Na última tela os botões de adicionar, remover ou editar também não possuem uma lógica, seria mais um ponto de melhoria
 
 
 ## Video demonstrativo
@@ -48,6 +48,11 @@ Segue um video passando pelo aplicativo
 8. Nesta tela eu deixei apenas algumas seções como obrigatórias, por exemplo a seção para adicionar o item, a seção para escolher o tamanho, para escolher uma bebida e observação
 9. Após adicionar o item que o botão de seguir com o pedido aparece
 10. Então a última tela mostra o pedido feito e ao finalizar coloquei um Dialog de sucesso onde o usuário pode fazer um novo pedido
+
+
+
+
+https://github.com/user-attachments/assets/f65a0245-bbf5-404a-99b8-0eef616e2a7c
 
 
 
